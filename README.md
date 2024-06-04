@@ -3,12 +3,14 @@
 A minimal MERN stack boilerplate
 
 ## Requirements
+
 - node 20
 - mongodb
 - code editor
 - browser
 
 ## Installation
+
 - git clone https://github.com/6hislain/mern-boilerplate
 - cd mern-boilerplate/client
 - npm install
